@@ -1,12 +1,12 @@
 # Design Pattern Using C++
 
 - Simple Factory
-- factory_method
+- Factory method
 - Observer
 - Decorator
 - Singleton
 - Strategy
-
+- Abstract factory pattern
 
 # Ref
 《大话设计模式》
