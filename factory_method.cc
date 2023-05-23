@@ -3,6 +3,11 @@
 
 using namespace std;
 
+// 先定义资源：num1, num2
+// 再定义各种操作资源的方式：add, sub
+// 再定义一个抽象工厂类，接口为创建操作方式
+// 再定义各种操作的具体工厂
+
 class Oper {
 public:
     int num1_;
